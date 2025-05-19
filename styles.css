@@ -18,12 +18,11 @@
 .square{
 	width: 10px;
 	height: 10px;
-	background-color: rgb(29, 29, 29);
 	transition: all 1s ease-in-out;
 }
 
 .square:hover{
-	background-color: orangered;	
-	transition: all 1s ease-in-out;
+	background-color: orangered;
+	background-color: rgb(29, 29, 29);
 }
 
